@@ -1,0 +1,38 @@
+h1{
+  color:red;
+  text-align:center;
+}
+p{
+  color:blue;
+}
+#top{
+  background-color: teal;
+  border: 3px dotted red;
+  width:100px;
+  height: 50px;
+  margin:10px;
+  padding:20px;
+}
+#bottom{
+  background-color: teal;
+  border: 3px dotted red;
+  width:100px;
+  height: 50px;
+  margin:10px;
+  padding:20px;
+}
+.amen{
+  font-weight:bold;
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align:center;
+}
+th,td{
+  border: 1px solid black;
+  padding:5px;
+}
+th{
+  background-color: magenta;
+}
